@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:dust/steel"
+  },
+  "result": "steel:steel_ingot",
+  "experience": 2,
+  "cookingtime": 200,
+  "group": "steel_dust"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dust/coal"
+    },
+    {
+      "tag": "forge:dust/iron"
+    },
+    {
+      "tag": "forge:dust/iron"
+    },
+    {
+      "tag": "forge:dust/iron"
+    }
+  ],
+  "result": {
+    "item": "steel:steel_dust",
+    "count": 1
+  },
+  "group": "steel_dust"
+}

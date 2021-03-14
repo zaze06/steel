@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:iron_ore"
+  },
+  "result": "steel:iron_dust",
+  "group": "iron_dust",
+  "count": 2
+}

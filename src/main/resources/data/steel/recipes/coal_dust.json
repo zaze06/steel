@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "minecraft:coals"
+    },
+    "result": "steel:coal_dust",
+    "group": "coal_dust",
+    "count": 1
+}
