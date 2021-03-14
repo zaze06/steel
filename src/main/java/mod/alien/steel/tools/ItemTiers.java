@@ -13,7 +13,7 @@ public class ItemTiers {
 
         @Override
         public float getEfficiency() {
-            return 8;
+            return 1;
         }
 
         @Override

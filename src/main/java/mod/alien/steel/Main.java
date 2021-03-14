@@ -13,7 +13,6 @@ public class Main {
     private static final Logger LOGGER = LogManager.getLogger();
 
     public Main() {
-        System.out.println("\n\n\n\n\n\n\nMain.java");
         Registration.register();
 
         Modifier.moddify();
