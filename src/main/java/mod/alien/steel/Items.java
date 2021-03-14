@@ -25,6 +25,7 @@ public class Items {
 
 
     public static void register() {
+        STEAL_AXE.get();
 
         System.out.println("\n\n\n\n\nRegistering Items\n\n\n\n\n\n\n");
     }
