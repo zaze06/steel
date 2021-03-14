@@ -1,4 +1,4 @@
-package com.alien.steel;
+package mod.alien.steel;
 
 public class Blocks {
 

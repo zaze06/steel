@@ -1,6 +1,6 @@
-package com.alien.tag;
+package mod.alien.tag;
 
-import com.alien.steel.Main;
+import mod.alien.steel.Main;
 import net.minecraft.item.Item;
 import net.minecraft.tags.ITag;
 import net.minecraft.tags.ItemTags;

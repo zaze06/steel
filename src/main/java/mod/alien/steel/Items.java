@@ -1,4 +1,4 @@
-package com.alien.steel;
+package mod.alien.steel;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;

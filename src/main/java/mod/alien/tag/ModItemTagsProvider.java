@@ -1,7 +1,7 @@
-package com.alien.tag;
+package mod.alien.tag;
 
-import com.alien.steel.Items;
-import com.alien.steel.Main;
+import mod.alien.steel.Items;
+import mod.alien.steel.Main;
 import net.minecraft.data.BlockTagsProvider;
 import net.minecraft.data.DataGenerator;
 import net.minecraftforge.common.data.ExistingFileHelper;
