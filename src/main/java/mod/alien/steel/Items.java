@@ -33,12 +33,12 @@ public class Items {
 
     public static final RegistryObject<Item> STEEL_HELMET = Registration.ITEMS.register("steel_helmet", () ->
             new ArmorItem(ArmorMats.Steel, EquipmentSlotType.HEAD, new Item.Properties().group(ItemGroup.COMBAT)));
-    public static final RegistryObject<Item> STEEL_CHESTPLATE = Registration.ITEMS.register("steel_chestplaye", () ->
-            new ArmorItem(ArmorMats.Steel, EquipmentSlotType.HEAD, new Item.Properties().group(ItemGroup.COMBAT)));
+    public static final RegistryObject<Item> STEEL_CHESTPLATE = Registration.ITEMS.register("steel_chestplate", () ->
+            new ArmorItem(ArmorMats.Steel, EquipmentSlotType.CHEST, new Item.Properties().group(ItemGroup.COMBAT)));
     public static final RegistryObject<Item> STEEL_LEGGINGS = Registration.ITEMS.register("steel_leggings", () ->
-            new ArmorItem(ArmorMats.Steel, EquipmentSlotType.HEAD, new Item.Properties().group(ItemGroup.COMBAT)));
+            new ArmorItem(ArmorMats.Steel, EquipmentSlotType.LEGS, new Item.Properties().group(ItemGroup.COMBAT)));
     public static final RegistryObject<Item> STEEL_BOOTS = Registration.ITEMS.register("steel_boots", () ->
-            new ArmorItem(ArmorMats.Steel, EquipmentSlotType.HEAD, new Item.Properties().group(ItemGroup.COMBAT)));
+            new ArmorItem(ArmorMats.Steel, EquipmentSlotType.FEET, new Item.Properties().group(ItemGroup.COMBAT)));
 
 
     public static void register() {}

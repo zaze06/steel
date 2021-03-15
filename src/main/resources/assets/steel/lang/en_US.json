@@ -1,4 +1,16 @@
 {
   "item.steel.steel_ingot": "Steel ingot",
-  "item.steel.steel_dust": "Steel dust"
+  "item.steel.steel_dust": "Steel dust",
+  "item.steel.iron_dust": "Iron dust",
+  "item.steel.coal_dust": "Coal dust",
+  "item.steel.steel_axe": "Steel axe",
+  "item.steel.steel_shovel": "Steel shovel",
+  "item.steel.steel_pickaxe": "steel pickaxe",
+  "item.steel.steel_sword": "Steel sword",
+  "item.steel.steel_hoe": "Steel hoe",
+  "item.steel.steel_helmet": "Steel helmet",
+  "item.steel.steel_chestplate": "Steel chestplate",
+  "item.steel.steel_leggings": "Steel leggings",
+  "item.steel.steel_boots": "Steel boots",
+  "item.steel.steel_block": "Steel_block"
 }
